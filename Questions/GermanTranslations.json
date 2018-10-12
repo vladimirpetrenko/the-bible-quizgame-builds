@@ -1,0 +1,76 @@
+{
+    "translations": [
+        {
+            "key": "mainMenuPlay",
+            "value": "SPIELEN"
+        },
+        {
+            "key": "mainMenuLanguage",
+            "value": "SPRACHAUSWAHL"
+        },
+        {
+            "key": "mainMenuQuit",
+            "value": "BEENDEN"
+        },
+        {
+            "key": "languageMenuTitle",
+            "value": "SPRACHAUSWAHL"
+        },
+        {
+            "key": "languageMenuEnglish",
+            "value": "ENGLISH"
+        },
+        {
+            "key": "languageMenuGerman",
+            "value": "DEUTSCH"
+        },
+        {
+            "key": "languageMenuRussian",
+            "value": "РУССКИЙ"
+        },
+        {
+            "key": "languageMenuBack",
+            "value": "ZURÜCK"
+        },
+        {
+            "key": "settingsMenuTitle",
+            "value": "EINSTELLUNGEN"
+        },
+        {
+            "key": "settingsMenuEasy",
+            "value": "LEICHT"
+        },
+        {
+            "key": "settingsMenuNormal",
+            "value": "NORMAL"
+        },
+        {
+            "key": "settingsMenuHard",
+            "value": "SCHWER"
+        },
+        {
+            "key": "settingsMenuBack",
+            "value": "ZURÜCK"
+        },
+        {
+            "key": "credits",
+            "value": "Entwickler: VP-BYTE Vladimir Petrenko\nWebseite: http://www.vp-byte.de\nMusik: https://www.freesfx.co.uk/"
+        },
+        {
+            "key": "trainmore",
+            "value": "Versuche öfter die Bibel zu lesen"
+        },
+        {
+            "key": "nice",
+            "value": "Schön, du hast {0} von {1} Fragen richtig beantwortet!"
+        },
+        {
+            "key": "verynice",
+            "value": "Super, du hast alle {0} Fragen richtig beantwortet!"
+        },
+        {
+            "key": "wingame",
+            "value": "Wunderbar,\ndu hast das Spiel\ndurchgespielt!"
+        }
+    ]
+}

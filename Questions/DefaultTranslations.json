@@ -1,0 +1,76 @@
+{
+    "translations": [
+        {
+            "key": "mainMenuPlay",
+            "value": "PLAY"
+        },
+        {
+            "key": "mainMenuLanguage",
+            "value": "LANGUAGE"
+        },
+        {
+            "key": "mainMenuQuit",
+            "value": "QUIT"
+        },
+        {
+            "key": "languageMenuTitle",
+            "value": "LANGUAGE"
+        },
+        {
+            "key": "languageMenuEnglish",
+            "value": "ENGLISH"
+        },
+        {
+            "key": "languageMenuGerman",
+            "value": "DEUTSCH"
+        },
+        {
+            "key": "languageMenuRussian",
+            "value": "РУССКИЙ"
+        },
+        {
+            "key": "languageMenuBack",
+            "value": "BACK"
+        },
+        {
+            "key": "settingsMenuTitle",
+            "value": "SETTINGS"
+        },
+        {
+            "key": "settingsMenuEasy",
+            "value": "EASY"
+        },
+        {
+            "key": "settingsMenuNormal",
+            "value": "NORMAL"
+        },
+        {
+            "key": "settingsMenuHard",
+            "value": "HARD"
+        },
+        {
+            "key": "settingsMenuBack",
+            "value": "BACK"
+        },
+        {
+            "key": "credits",
+            "value": "Developer: VP-BYTE Vladimir Petrenko\nWebside: http://www.vp-byte.de\nMusic: https://www.freesfx.co.uk/"
+        },
+        {
+            "key": "trainmore",
+            "value": "Try to read the Bible every day."
+        },
+        {
+            "key": "nice",
+            "value": "Nice, you answered {0} questions from {1} correctly!"
+        },
+        {
+            "key": "verynice",
+            "value": "Very nice, you answered all {0} questions correctly!"
+        },
+        {
+            "key": "wingame",
+            "value": "Well done,\nyou coplete the game!"
+        }
+    ]
+}

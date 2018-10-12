@@ -1,0 +1,76 @@
+{
+    "translations": [
+        {
+            "key": "mainMenuPlay",
+            "value": "ИГРАТЬ"
+        },
+        {
+            "key": "mainMenuLanguage",
+            "value": "ЯЗЫК"
+        },
+        {
+            "key": "mainMenuQuit",
+            "value": "ВЫЙТИ"
+        },
+        {
+            "key": "languageMenuTitle",
+            "value": "ВЫБОР ЯЗЫКА"
+        },
+        {
+            "key": "languageMenuEnglish",
+            "value": "ENGLISH"
+        },
+        {
+            "key": "languageMenuGerman",
+            "value": "DEUTSCH"
+        },
+        {
+            "key": "languageMenuRussian",
+            "value": "РУССКИЙ"
+        },
+        {
+            "key": "languageMenuBack",
+            "value": "НАЗАД"
+        },
+        {
+            "key": "settingsMenuTitle",
+            "value": "НАСТРОЙКИ"
+        },
+        {
+            "key": "settingsMenuEasy",
+            "value": "ЛЕГКО"
+        },
+        {
+            "key": "settingsMenuNormal",
+            "value": "НОРМАЛЬНО"
+        },
+        {
+            "key": "settingsMenuHard",
+            "value": "СЛОЖНО"
+        },
+        {
+            "key": "settingsMenuBack",
+            "value": "НАЗАД"
+        },
+        {
+            "key": "credits",
+            "value": "Разработчик: VP-BYTE Vladimir Petrenko\nСтраница: http://www.vp-byte.de\nМузыка: https://www.freesfx.co.uk/"
+        },
+        {
+            "key": "trainmore",
+            "value": "Постарайся чаще читать\nБиблию!"
+        },
+        {
+            "key": "nice",
+            "value": "Молодец ты ответил\nна {0} вопросов из {1}\nправильно!"
+        },
+        {
+            "key": "verynice",
+            "value": "Молодец ты ответил\nна все {0} вопросов правильно!"
+        },
+        {
+            "key": "wingame",
+            "value": "Умница ты прошел всю игру!"
+        }
+    ]
+}

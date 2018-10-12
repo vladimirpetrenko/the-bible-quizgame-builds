@@ -1,0 +1,31 @@
+{
+    "questions": [
+        {
+            "difficulty": 0,
+            "question": "How many children had Noah?",
+            "explain": "",
+            "right": "three",
+            "wrong1": "one",
+            "wrong2": "seven",
+            "wrong3": "ten"
+        },
+        {
+            "difficulty": 0,
+            "question": "Where live Jehova?",
+            "explain": "",
+            "right": "haven",
+            "wrong1": "house",
+            "wrong2": "temple",
+            "wrong3": "sea"
+        },
+        {
+            "difficulty": 0,
+            "question": "Who was the long livers men?",
+            "explain": "Mathusal was 987 jears old",
+            "right": "Mathusal",
+            "wrong1": "Moses",
+            "wrong2": "Isaak",
+            "wrong3": "Noah"
+        }
+    ]
+}

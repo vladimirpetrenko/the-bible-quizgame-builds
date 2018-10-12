@@ -1,0 +1,85 @@
+{
+    "questions": [
+        {
+            "difficulty": 0,
+            "question": "Wieviele Kinder hatte Noha?",
+            "explain": "Noha hatte Sim, Hamm, Aphet als Sönne!",
+            "right": "drei",
+            "wrong1": "ein",
+            "wrong2": "sieben",
+            "wrong3": "zehn"
+        },
+        {
+            "difficulty": 0,
+            "question": "Wo lebt Jehova?",
+            "explain": "Himmel ist der Wohnort von Jehova!",
+            "right": "Himmel",
+            "wrong1": "Haus",
+            "wrong2": "Tempel",
+            "wrong3": "Meer"
+        },
+        {
+            "difficulty": 0,
+            "question": "Welcher Mensch lebte am längsten?",
+            "explain": "Mathusal hat 987 Jahre gelebt!",
+            "right": "Mathusal",
+            "wrong1": "Noha",
+            "wrong2": "Isaak",
+            "wrong3": "Moses"
+        },
+        {
+            "difficulty": 0,
+            "question": "Wann ist Jesus König geworden?",
+            "explain": "Nach Prophezeiung im Buch Daniel\nist Jesus 1914 u. Z. könig geworden!",
+            "right": "1914 u. Z.",
+            "wrong1": "29 u. Z",
+            "wrong2": "33 u. Z",
+            "wrong3": "1935 u. Z"
+        },
+        {
+            "difficulty": 0,
+            "question": "Wie viele Söhne hatte Jakob?",
+            "explain": "Jakob hatte 12 kinder!",
+            "right": "zwölf",
+            "wrong1": "drei",
+            "wrong2": "zehen",
+            "wrong3": "ein"
+        },
+        {
+            "difficulty": 0,
+            "question": "Wie hies der erste König Israels?",
+            "explain": "Der erste König Israels war Saul!",
+            "right": "Saul",
+            "wrong1": "David",
+            "wrong2": "Salomo",
+            "wrong3": "Ahas"
+        },
+        {
+            "difficulty": 0,
+            "question": "Wie hies der stärkste Mensch?",
+            "explain": "Simson war von Jehova gesalb\nund trug lange Harre als Zeichen!",
+            "right": "Simson",
+            "wrong1": "Ieffai",
+            "wrong2": "Jonathan",
+            "wrong3": "Goliath"
+        },
+        {
+            "difficulty": 0,
+            "question": "Wie lange war Israels Wanderung\nin der Wüste?",
+            "explain": "Israel war untreu und musste 40 Jahre in der Wildnis wandern!",
+            "right": "40 Jahre",
+            "wrong1": "30 Jahre",
+            "wrong2": "25 Jahre",
+            "wrong3": "70 Jahre"
+        },
+        {
+            "difficulty": 0,
+            "question": "Wieviele Plagen hat Jehova über\nEgypten gebracht?",
+            "explain": "Genau zehen Plagen!",
+            "right": "zehen",
+            "wrong1": "drei",
+            "wrong2": "acht",
+            "wrong3": "zwölf"
+        }
+    ]
+}
